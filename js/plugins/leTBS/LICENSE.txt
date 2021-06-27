@@ -1,0 +1,18 @@
+TERMS OF USE
+
+Copyright (c) 2018 Lecode
+
+-Free for use in commercial and non commercial Rpg Maker MV projects with credit.
+可以在商业或非商业版本的Rpg Maker MV工程文件中免费试用
+-Keep the header of all my plugins.
+请保留我的插件中的所有头文件
+-You are allowed to edit my plugins.
+你可以编辑我的插件
+-Do not sell the plugins itself (even if the materials were edited, processed, or modified)
+不要售卖我的插件或其中的某一部分（即便你修改/编辑/处理过其中的素材）
+as a whole or any of its parts.
+-Do not claim as your own work even when edited.
+不要声明插件是你自己的，即便你更新过它
+-Contact me if you're using LeTBS in a commercial project. I want to
+know how my work is used.
+如果你在商业项目中使用了我的插件，请告知我。我希望知道我的工作是如何被使用到的。
